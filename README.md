@@ -1,3 +1,3 @@
 # Project
 
-<img width="1279" height="513" alt="image" src="https://github.com/user-attachments/assets/25956c59-e08d-4dcd-a836-470fa92419e0" />
+<img width="746" height="732" alt="image" src="https://github.com/user-attachments/assets/705b66c8-5224-4035-8dee-f7f85eeb3751" />
