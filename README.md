@@ -1,4 +1,4 @@
-# Commande architecture réseau avancé (VyOS : OSPF, Radius, BGP, OpenConnect VPN)
+# Commandes architecture réseau avancé (VyOS : OSPF, Radius, BGP, OpenConnect VPN)
 
 ## Topologie
 <img width="1057" height="774" alt="image" src="https://github.com/user-attachments/assets/1f71c468-592e-43e7-a18b-db45828ffcf0" />
